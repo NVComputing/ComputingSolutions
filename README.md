@@ -4,6 +4,19 @@ shout out during the meeting that the solution is yours.
 
 Solutions will be posted two weeks after the problems are released, and we will go over them during the meeting in that week.
 
+## Leaderboard (Updated as of 10/9)
+| Name | Points |
+| ----------- | ----------- |
+| Brian Li | 6 |
+| Peter Perry | 6 |
+| Andy Ye | 6 |
+| Steven He | 4 |
+| Andy Yu | 4 |
+| Sophie Lin | 4 |
+| Haroldas Diska | 4 |
+| Michaela Briones | 4 |
+| Armaan Sidhu | 3 |
+
 
 ## How do I make my submission feature worthy?
 1. Solve the problem. We will not feature solutions that do not work.
