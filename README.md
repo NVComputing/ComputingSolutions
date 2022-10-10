@@ -5,7 +5,7 @@ shout out during the meeting that the solution is yours.
 Solutions will be posted two weeks after the problems are released, and we will go over them during the meeting in that week.
 
 ## Leaderboard (Updated as of 10/9)
-| Name | Points |
+| Place | Name | Points |
 | ----------- | ----------- | ----------- |
 | 1 | Brian Li | 6 |
 | 1 | Peter Perry | 6 |
