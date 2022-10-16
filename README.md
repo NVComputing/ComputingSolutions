@@ -7,15 +7,16 @@ Solutions will be posted two weeks after the problems are released, and we will 
 ## Leaderboard (Updated as of 10/9)
 | Place | Name | Points |
 | ----------- | ----------- | ----------- |
-| 1 | Brian Li | 6 |
-| 1 | Peter Perry | 6 |
-| 1 | Andy Ye | 6 |
-| 4 | Steven He | 4 |
-| 4 | Andy Yu | 4 |
-| 4 | Sophie Lin | 4 |
-| 4 | Haroldas Diska | 4 |
-| 4 | Michaela Briones | 4 |
-| 9 | Armaan Sidhu | 3 |
+| 1 | Brian Li | 12 |
+| 1 | Peter Perry | 12 |
+| 1 | Andy Ye | 12 |
+| 4 | Andy Yu | 7 |
+| 4 | Armaan Sidhu | 7 |
+| 6 | Steven He | 4 |
+| 6 | Sophie Lin | 4 |
+| 6 | Haroldas Diska | 4 |
+| 6 | Michaela Briones | 4 |
+
 
 
 ## How do I make my submission feature worthy?
