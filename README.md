@@ -10,12 +10,12 @@ Solutions will be posted two weeks after the problems are released, and we will 
 | 1 | Brian Li | 12 |
 | 1 | Peter Perry | 12 |
 | 1 | Andy Ye | 12 |
-| 4 | Andy Yu | 7 |
-| 4 | Armaan Sidhu | 7 |
-| 6 | Steven He | 4 |
-| 6 | Sophie Lin | 4 |
-| 6 | Haroldas Diska | 4 |
-| 6 | Michaela Briones | 4 |
+| 4 | Haroldas Diska | 10 |
+| 5 | Andy Yu | 7 |
+| 5 | Armaan Sidhu | 7 |
+| 7 | Steven He | 4 |
+| 7 | Sophie Lin | 4 |
+| 7 | Michaela Briones | 4 |
 
 
 
