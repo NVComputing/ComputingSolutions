@@ -4,18 +4,22 @@ shout out during the meeting that the solution is yours.
 
 Solutions will be posted two weeks after the problems are released, and we will go over them during the meeting in that week.
 
-## Leaderboard (Updated as of 10/9)
+## Leaderboard (Updated as of 10/19)
 | Place | Name | Points |
 | ----------- | ----------- | ----------- |
-| 1 | Brian Li | 12 |
-| 1 | Peter Perry | 12 |
-| 1 | Andy Ye | 12 |
-| 4 | Haroldas Diska | 10 |
-| 5 | Andy Yu | 7 |
-| 5 | Armaan Sidhu | 7 |
-| 7 | Steven He | 4 |
-| 7 | Sophie Lin | 4 |
-| 7 | Michaela Briones | 4 |
+| 1 | Brian Li | 18 |
+| 1 | Peter Perry | 18 |
+| 1 | Andy Ye | 18 |
+| 4 | Haroldas Diska | 16 |
+| 5 | Andy Yu | 13 |
+| 5 | Armaan Sidhu | 13 |
+| 7 | Sophie Lin | 10 |
+| 8 | Michaela Briones | 9 |
+| 9 | Anthony Chen | 6 |
+| 9 | Vick Ye | 6 |
+| 9 | Evan Yang | 6 |
+| 9 | Jack Zhou | 6 |
+| idk | Steven He | 4 |
 
 
 
