@@ -7,19 +7,20 @@ Solutions will be posted two weeks after the problems are released, and we will 
 ## Leaderboard (Updated as of 10/19)
 | Place | Name | Points |
 | ----------- | ----------- | ----------- |
-| 1 | Brian Li | 18 |
-| 1 | Peter Perry | 18 |
-| 1 | Andy Ye | 18 |
-| 4 | Haroldas Diska | 16 |
-| 5 | Andy Yu | 13 |
-| 5 | Armaan Sidhu | 13 |
-| 7 | Sophie Lin | 10 |
-| 8 | Michaela Briones | 9 |
-| 9 | Anthony Chen | 6 |
-| 9 | Vick Ye | 6 |
-| 9 | Evan Yang | 6 |
-| 9 | Jack Zhou | 6 |
-| idk | Steven He | 4 |
+| 1 | Brian Li | 18 | 
+| 1 | Peter Perry | 18 | 
+| 1 | Andy Ye | 18 | 
+| 4 | Haroldas Diska | 16 | 
+| 5 | Andy Yu | 13 | 
+| 5 | Armaan Sidhu | 13 | 
+| 7 | Sophie Lin | 10 | 
+| 8 | Michaela Briones | 9 | 
+| 9 | Anthony Chen | 6 | 
+| 9 | Vick Ye | 6 | 
+| 9 | Evan Yang | 6 | 
+| 9 | Jack Zhou | 6 | 
+| 13 | Steven He | 4 | 
+| 14 | Saumil Patel | 3 | 
 
 
 
