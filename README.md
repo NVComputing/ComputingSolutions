@@ -15,9 +15,9 @@ Solutions will be posted two weeks after the problems are released, and we will 
 | 5 | Jack Zhou | 24 | 
 | 7 | Andy Yu | 20 | 
 | 8 | Vick Ye | 18 | 
-| 8 | Anthony Chen | 18 | 
+| 9 | Jerry Zhou | 16 | 
 | 10 | Armaan Sidhu | 13 | 
-| 11 | Jerry Zhou | 10 | 
+| 11 | Anthony Chen | 12 | 
 | 12 | Michaela Briones | 9 | 
 | 13 | Evan Yang | 6 | 
 | 13 | Kundan Baliga | 6 | 
