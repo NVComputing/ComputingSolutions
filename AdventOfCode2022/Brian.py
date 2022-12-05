@@ -11,7 +11,9 @@ for line in sys.stdin:
 
     if (b >= d and a<=c) or (b<=d and a>=c):
         lol += 1
-
+    
+    #part 2
+    
     if a<=c<=b or a<=d<=b or c<=a<=d or c<=b<=d:
         lmao += 1
 
