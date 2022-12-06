@@ -1,7 +1,4 @@
 import java.util.Scanner;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.stream.*;
 public class workspace4 {
 
 	public static void main(String[] args) {
