@@ -1,5 +1,5 @@
 import java.util.*;
-public class d9 {
+public class part2Anthony {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
