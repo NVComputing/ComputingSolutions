@@ -4,25 +4,28 @@ shout out during the meeting that the solution is yours.
 
 Solutions will be posted two weeks after the problems are released, and we will go over them during the meeting in that week.
 
-## Leaderboard (Updated as of 11/29)
+## Leaderboard (Updated as of 1/10)
 | Place | Name | Points |
 | ----------- | ----------- | ----------- |
-| 1 | Andy Ye | 36 | 
-| 2 | Brian Li | 30 | 
-| 3 | Haroldas Diska | 28 | 
-| 4 | Sophie Lin | 25 | 
-| 5 | Peter Perry | 24 | 
-| 5 | Jack Zhou | 24 | 
-| 7 | Andy Yu | 20 | 
-| 8 | Vick Ye | 18 | 
-| 9 | Jerry Zhou | 16 | 
-| 10 | Armaan Sidhu | 13 | 
-| 11 | Anthony Chen | 12 | 
-| 12 | Michaela Briones | 9 | 
-| 13 | Evan Yang | 6 | 
-| 13 | Kundan Baliga | 6 | 
-| 15 | Steven He | 4 | 
-| 16 | Saumil Patel | 3 | 
+| 1 | Andy Ye | 50 | 
+| 2 | Peter Perry | 46 | 
+| 3 | Brian Li | 40 | 
+| 4 | Jack Zhou | 39 | 
+| 5 | Sophie Lin | 35 | 
+| 6 | Haroldas Diska | 34 | 
+| 7 | Anthony Chen | 33 | 
+| 8 | Jerry Zhou | 32 | 
+| 9 | Vick Ye | 22 | 
+| 10 | Kyle Zeng | 21 | 
+| 11 | Andy Yu | 20 | 
+| 12 | Issac Chang | 19 | 
+| 13 | Armaan Sidhu | 13 | 
+| 14 | Michaela Briones | 9 | 
+| 15 | Evan Yang | 6 | 
+| 15 | Kundan Baliga | 6 | 
+| 17 | Steven He | 4 | 
+| 18 | Saumil Patel | 3 | 
+| 19 | Anish Sheth | 2 | 
 
 
 
