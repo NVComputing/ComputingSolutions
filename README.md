@@ -7,14 +7,14 @@ Solutions will be posted two weeks after the problems are released, and we will 
 ## Leaderboard (Updated as of 1/10)
 | Place | Name | Points |
 | ----------- | ----------- | ----------- |
-| 1 | Andy Ye | 50 | 
-| 2 | Peter Perry | 46 | 
-| 3 | Brian Li | 40 | 
-| 4 | Jack Zhou | 39 | 
-| 5 | Sophie Lin | 35 | 
-| 6 | Haroldas Diska | 34 | 
-| 7 | Anthony Chen | 33 | 
-| 8 | Jerry Zhou | 32 | 
+| 1 | Andy Ye | 55 | 
+| 2 | Jack Zhou | 49 | 
+| 3 | Peter Perry | 46 | 
+| 4 | Brian Li | 40 | 
+| 5 | Jerry Zhou | 37 | 
+| 6 | Sophie Lin | 35 | 
+| 7 | Haroldas Diska | 34 | 
+| 8 | Anthony Chen | 33 | 
 | 9 | Vick Ye | 22 | 
 | 10 | Kyle Zeng | 21 | 
 | 11 | Andy Yu | 20 | 
