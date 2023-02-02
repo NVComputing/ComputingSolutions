@@ -8,11 +8,11 @@ Solutions will be posted two weeks after the problems are released, and we will 
 | Place | Name | Points |
 | ----------- | ----------- | ----------- |
 | 1 | Andy Ye | 55 | 
-| 2 | Jack Zhou | 49 | 
+| 2 | Jack Zhou | 52 | 
 | 3 | Peter Perry | 46 | 
-| 4 | Brian Li | 40 | 
-| 5 | Jerry Zhou | 37 | 
-| 6 | Sophie Lin | 35 | 
+| 4 | Jerry Zhou | 45 | 
+| 5 | Sophie Lin | 43 | 
+| 6 | Brian Li | 40 | 
 | 7 | Haroldas Diska | 34 | 
 | 8 | Anthony Chen | 33 | 
 | 9 | Vick Ye | 22 | 
@@ -21,11 +21,12 @@ Solutions will be posted two weeks after the problems are released, and we will 
 | 12 | Issac Chang | 19 | 
 | 13 | Armaan Sidhu | 13 | 
 | 14 | Michaela Briones | 9 | 
-| 15 | Evan Yang | 6 | 
-| 15 | Kundan Baliga | 6 | 
-| 17 | Steven He | 4 | 
+| 14 | Steven He | 9 | 
+| 16 | Evan Yang | 6 | 
+| 16 | Kundan Baliga | 6 | 
 | 18 | Saumil Patel | 3 | 
-| 19 | Anish Sheth | 2 | 
+| 18 | Nikhil Chandra | 3 | 
+| 20 | Anish Sheth | 2 | 
 
 
 
