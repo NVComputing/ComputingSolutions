@@ -4,7 +4,7 @@ shout out during the meeting that the solution is yours.
 
 Solutions will be posted two weeks after the problems are released, and we will go over them during the meeting in that week.
 
-## Leaderboard (Updated as of 1/10)
+## Leaderboard (Updated as of 2/1)
 | Place | Name | Points |
 | ----------- | ----------- | ----------- |
 | 1 | Andy Ye | 55 | 
