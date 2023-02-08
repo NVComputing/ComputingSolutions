@@ -1,11 +1,10 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 /*
-Online Java - IDE, Code Editor, Compiler
-
-Online Java is a quick and easy tool that helps you to build, compile, test your programs online.
+THE LOGIC:
+If you must contain every member of your kind, then your index must be the first
+PLEZZZZ DONT READ THIS, THE ALGO IS OVERCOMPLICATED
 */
-
 public class Main
 {
     static int lowestH;
@@ -13,6 +12,7 @@ public class Main
     static int highestH;
     static int highestG;
     public static void main(String[] args) {
+        //basic data input
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
         input.nextLine();
@@ -21,19 +21,19 @@ public class Main
         for (int i = 0; i<n; i++){
             arr[i] = input.nextInt();
         }
+        
+        //
         lowestH = -1;
         lowestG = -1;
         highestH = n;
         highestG = n;
         boundFinder(ord,n);
-        //System.out.println(lowestH + " " + highestH);
-        //System.out.println(lowestG + " " + highestG);
+
         ArrayList<Integer> validH = new ArrayList<Integer>();
         ArrayList<Integer> validG = new ArrayList<Integer>();
         pureLeaders(validG, false, ord, arr);
         pureLeaders(validH, true, ord, arr);
         int count = validH.size() * validG.size();
-        //System.out.println(validG.size() + " " + validH.size());
         for(int i = 0; i<validG.size(); i++){
             for(int a = 0; a<validG.get(i); a++){
                 if(ord.charAt(a) == 'H'){
