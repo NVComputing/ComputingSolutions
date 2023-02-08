@@ -20,23 +20,23 @@ int main() {
 		}
 	}
 
-	// store the different air conditioners
-	int cond[10][4]; // a, b, p, m
+	// grab input: air conditioners
+	int cond[10][4]; // store a, b, p, m for each air conditioner
 	for (int i = 0; i < m; i++) {
 		for (int j = 0; j < 4; j++) {
-			cin >> cond[i][j]; // grab input: air conditioners
+			cin >> cond[i][j];
 		}
 	}
 
 	//test all possible combinations by generating all subsets
-	int low = 100000;
+	int low = 100000; // dummy value, but must be greater than 10 * 1000
 	for (int i = 0; i < pow(2, m); i++) {
 
 		int cur[101];
 		memset(cur, 0, sizeof(cur));
 		int cost = 0;
 
-		//cool bitmasking trick
+		// cool bitmasking trick to generate subsets
 		for (int j = 0; j < m; j++) {
 			if (i & 1 << j) {
 				cost += cond[j][3];
