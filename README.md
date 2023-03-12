@@ -4,30 +4,30 @@ shout out during the meeting that the solution is yours.
 
 Solutions will be posted two weeks after the problems are released, and we will go over them during the meeting in that week.
 
-## Leaderboard (Updated as of 2/1)
+## Leaderboard (Updated as of 3/12)
 | Place | Name | Points |
 | ----------- | ----------- | ----------- |
-| 1 | Andy Ye | 55 | 
-| 2 | Jack Zhou | 52 | 
-| 3 | Peter Perry | 46 | 
-| 4 | Jerry Zhou | 45 | 
+| 1 | Jack Zhou | 57 | 
+| 2 | Andy Ye | 55 | 
+| 3 | Jerry Zhou | 50 | 
+| 4 | Peter Perry | 46 | 
 | 5 | Sophie Lin | 43 | 
 | 6 | Brian Li | 40 | 
 | 7 | Haroldas Diska | 34 | 
 | 8 | Anthony Chen | 33 | 
-| 9 | Vick Ye | 22 | 
-| 10 | Kyle Zeng | 21 | 
+| 9 | Kyle Zeng | 26 | 
+| 10 | Vick Ye | 22 | 
 | 11 | Andy Yu | 20 | 
 | 12 | Issac Chang | 19 | 
-| 13 | Armaan Sidhu | 13 | 
+| 13 | Armaan Sidhu | 18 | 
 | 14 | Michaela Briones | 9 | 
 | 14 | Steven He | 9 | 
 | 16 | Evan Yang | 6 | 
 | 16 | Kundan Baliga | 6 | 
 | 18 | Saumil Patel | 3 | 
 | 18 | Nikhil Chandra | 3 | 
-| 20 | Anish Sheth | 2 | 
-
+| 18 | Drew Fargo | 3 | 
+| 21 | Anish Sheth | 2 | 
 
 
 ## How do I make my submission feature worthy?
