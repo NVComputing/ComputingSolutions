@@ -35,3 +35,38 @@ BEVDFFENR<sub>32</sub>
 
 
 # 10/12 Homework - [Recursive Functions](https://docs.google.com/document/d/1iZTt1O4CyV9jd4IAdGSJfOECuTHz4rfC0kABVeTLzrc/edit?usp=sharing)
+For a detailed look into how you solve for each answer, please visit [this link](https://docs.google.com/document/d/1C-4ENa98vbtARWaDMuEbHliTSB6f8kUzWBpvi2Se6PI/edit?usp=sharing).
+(Pssssst, I talk about some cool stuff in the answer key that is slightly unrelated. Please check it out!)
+
+## Main Problems:
+
+### #1:
+s
+
+### #2:
+39
+
+### #3:
+3276
+
+### #4:
+5040
+
+### #5:
+-13
+
+### #6:
+255
+
+## Extra Credit:
+
+### #1:
+4725
+
+### #2:
+4
+
+### #3:
+The code entirely depends on you! Review the Answer Key if you need an example!
+
+# 10/19 Homework - [What Does This Program Do?](https://docs.google.com/document/d/1po1I9ZgXg_P6PW5k_I-iTcn0AW3fknTeNd4EYt8O3hs/edit?usp=sharing)
