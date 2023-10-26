@@ -4,19 +4,19 @@ shout out during the meeting that the solution is yours.
 
 Solutions will be posted one-two weeks after the problems are released, and we might go over them during the meeting that week.
 
-## Leaderboard (Updated as of 10/18)
+## Leaderboard (Updated as of 10/25)
 | Place | Name | Points |
 | ----------- | ----------- | ----------- |
-| 1 |  Armaan S.  | 18 |
-| 2 |  Kundan B.  | 17.5 |
-| 3 |  Ansh S.    | 16.5 |
-| 4 |  Andrew W.  | 16 |
-| 5 |  Shiven P.  | 13.5 |
-| 6 |  Ibrahim A. | 13.5 |
-| 7 |  Kyle Z.    | 10.5 |
-| 8 |  Monish RJ. | 10 |
-| 9 |  Ben E.     | 9.5 |
-| 10 | Enoch G.   | 9.5 |
+| 1 |  Sammy P.   | 22 |
+| 2 |  Kundan B.  | 21.5 |
+| 3 |  Divu T.    | 21.5 |
+| 4 |  Armaan S.  | 18 |
+| 5 |  Ibrahim A. | 17.5 |
+| 6 |  Ansh S.    | 16.5 |
+| 7 |  Atharva V. | 16.5 |
+| 8 |  Monish RJ. | 14 |
+| 9 |  Shiven P.  | 13.5 |
+| 10 | Kyle Z.    | 13.5 |
 
 
 *Cutoff is Top 10, unless there are ties.*
