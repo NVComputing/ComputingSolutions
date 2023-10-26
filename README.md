@@ -12,11 +12,11 @@ Solutions will be posted one-two weeks after the problems are released, and we m
 | 3 |  Divu T.    | 21.5 |
 | 4 |  Armaan S.  | 18 |
 | 5 |  Ibrahim A. | 17.5 |
-| 6 |  Ansh S.    | 16.5 |
-| 7 |  Atharva V. | 16.5 |
-| 8 |  Monish RJ. | 14 |
-| 9 |  Shiven P.  | 13.5 |
-| 10 | Kyle Z.    | 13.5 |
+| 6 |  Shiven P.  | 17 |
+| 7 |  Atharva V. | 17 |
+| 8 |  Jayanth G. | 17 |
+| 9 |  Ansh S.    | 16.5 |
+| 10 | Andrew W.  | 16 |
 
 
 *Cutoff is Top 10, unless there are ties.*
