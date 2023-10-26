@@ -69,5 +69,22 @@ s
 ### #3:
 The code entirely depends on you! Review the Answer Key if you need an example!
 
-
 # 10/19 Homework - [What Does This Program Do?](https://docs.google.com/document/d/1po1I9ZgXg_P6PW5k_I-iTcn0AW3fknTeNd4EYt8O3hs/edit?usp=sharing)
+For a detailed look into how you solve for each answer, please visit [this link](https://docs.google.com/document/d/13tcxmkcGOb6RGxLFOQuqlVCfQe1QK0GcsTU3W-KkqlY/edit?usp=sharing).
+(Pssssst, I talk about some cool stuff in the answer key that is slightly unrelated. Please check it out!)
+
+## Main Problems:
+
+### #1:
+8
+
+### #2:
+Converts a Base 10 input into Base 2.
+
+### #3:
+C(4) = 2
+
+## Extra Credit:
+
+### #1:
+*Answers will vary.*
