@@ -4,13 +4,13 @@ shout out during the meeting that the solution is yours.
 
 Solutions will be posted one-two weeks after the problems are released, and we might go over them during the meeting that week.
 
-## Leaderboard (Updated as of 10/25)
+## Leaderboard (Updated as of 10/26)
 | Place | Name | Points |
 | ----------- | ----------- | ----------- |
 | 1 |  Sammy P.   | 22 |
-| 2 |  Kundan B.  | 21.5 |
-| 3 |  Divu T.    | 21.5 |
-| 4 |  Armaan S.  | 18 |
+| 2 |  Armaan S.  | 22 |
+| 3 |  Kundan B.  | 21.5 |
+| 4 |  Divu T.    | 21.5 |
 | 5 |  Ibrahim A. | 17.5 |
 | 6 |  Shiven P.  | 17 |
 | 7 |  Atharva V. | 17 |
