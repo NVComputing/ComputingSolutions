@@ -49,7 +49,7 @@ for perm in itertools.combinations(candidates, 3):
 print(ans)
 ```
 
-## Love-Colored Master Spark (Hard)
+## C. Love-Colored Master Spark (Hard)
 
 Brute force is too slow, so we need a couple optimizations. Notice that the leftmost bits of a number are most important in finding the maximum: `1xxx` will always be greater than `01xx`, no matter whether the digits labeled `x` are `0` or `1`. This means that we should check if we can set each bit in order from left to right.
 
@@ -72,7 +72,7 @@ for i in range(31, -1, -1):
 print(fuels[0] & fuels[1] & fuels[2])
 ```
 
-## Gensoukyou News
+## D. Gensoukyou News
 
 Basically the [0-1 knapsack problem](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/). The solution involves doing dynamic programming and storing an array with the maximum amount of interest you can generate using *k* words. Initalize the array with 0s to begin with. For each incident Aya can write about, for each *k* in the array, we consider whether including this incident would increase the amount of interest generated. Including an incident that takes *x* words and generates *y* interest would cause the interest to be (maximum interest you can generate with *k - x* words) + (*y*). Update the value if including the incident would increase the interest. After considering all incidents, the maximum interest you can generate with *k* words should be stored in the array, and just output it.
 
@@ -106,7 +106,7 @@ int main() {
 }
 ```
 
-## Librarian Woes
+## E. Librarian Woes
 
 Let each book be a node on a graph, and each pair of incompatible books be an edge connecting two books in that graph. It is impossible to fit the books onto two bookshelfs if there is a cycle of odd length in the graph (for example, in a case like 1-2, 2-3, 3-1). In other words, the answer is "Yes" if the graph is [bipartite](https://en.wikipedia.org/wiki/Bipartite_graph). Simply check if the graph is bipartite by using DFS and trying to color nodes in alternating colors.
 
