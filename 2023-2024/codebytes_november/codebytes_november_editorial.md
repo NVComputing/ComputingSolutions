@@ -74,7 +74,7 @@ print(fuels[0] & fuels[1] & fuels[2])
 
 ## D. Gensoukyou News
 
-Basically the [0-1 knapsack problem](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/). The solution involves doing dynamic programming and storing an array with the maximum amount of interest you can generate using *k* words. Initalize the array with 0s to begin with. For each incident Aya can write about, for each *k* in the array, we consider whether including this incident would increase the amount of interest generated. Including an incident that takes *x* words and generates *y* interest would cause the interest to be (maximum interest you can generate with *k - x* words) + (*y*). Update the value if including the incident would increase the interest. After considering all incidents, the maximum interest you can generate with *k* words should be stored in the array, and just output it.
+Basically the [0-1 knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem). The solution involves doing dynamic programming and storing an array with the maximum amount of interest you can generate using *k* words. Initalize the array with 0s to begin with. For each incident Aya can write about, for each *k* in the array, we consider whether including this incident would increase the amount of interest generated. Including an incident that takes *x* words and generates *y* interest would cause the interest to be (maximum interest you can generate with *k - x* words) + (*y*). Update the value if including the incident would increase the interest. After considering all incidents, the maximum interest you can generate with *k* words should be stored in the array, and just output it.
 
 ```cpp
 #include <bits/stdc++.h>
