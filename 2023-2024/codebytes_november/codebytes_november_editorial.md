@@ -8,7 +8,7 @@ This is pretty much a math problem. Find the student that requires the maximum a
 
 There's probably alternative solutions where you can just brute force and keep on sending the students with the lowest grades to class until they all have 100s, but I haven't tested it.
 
-(i'm actually not sure if my answer is right, i wanted the other captains to check it but nobody would do it T_T     speaking of which, does anybody who's reading this want test the problems for next contest? of course this means you can't participate, but i'm sincerely looking for help with doing all this)
+(i'm actually not sure if my answer is right, i wanted the other captains to check it but nobody would do it T_T speaking of which, does anybody who's reading this want test the problems for next contest? of course this means you can't participate, but i'm sincerely looking for help with doing all this)
 
 ```py
 import math
@@ -53,7 +53,7 @@ print(ans)
 
 Brute force is too slow, so we need a couple optimizations. Notice that the leftmost bits of a number are most important in finding the maximum: `1xxx` will always be greater than `01xx`, no matter whether the digits labeled `x` are `0` or `1`. This means that we should check if we can set each bit in order from left to right.
 
-In order to be able to set a bit in our final answer, we need at least 3 integers in the list which have that bit set. If it is possible, then we should only consider integers in the list which have that bit set as candidates for our *a*, *b*, *c*. Continue this process for every bit, and just pick any 3 remaining numbers as your *a*, *b*, and *c*.
+In order to be able to set a bit in our final answer, we need at least 3 integers in the list which have that bit set. If it is possible, then we should only consider integers in the list which have that bit set as candidates for our *a*, *b*, *c*. Continue this process for every bit, and just pick any 3 remaining numbers as your *a*, *b*, and *c* to calculate your final answer.
 
 ```py
 k = int(input())
